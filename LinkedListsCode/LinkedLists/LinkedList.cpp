@@ -1,5 +1,5 @@
 #pragma once
-#include "LinkedList.h"
+#include "LinkedList.hpp"
 #include <iostream>
 
 
