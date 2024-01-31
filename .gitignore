@@ -26,6 +26,8 @@
 *.a
 *.lib
 
+#GitHub
+*.md
 # Executables
 *.exe
 *.out
